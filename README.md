@@ -4,16 +4,16 @@ This repository hosts public privacy policy documents for Android applications p
 These policies are provided to comply with Google Play Developer Program requirements.
 
 Applications
-Tech and Trades Unit Converter
+# Tech and Trades Unit Converter
 • Platform: Android
 
 • Distribution: Google Play (Internal / Closed Testing)
 
 • Description: Tech and Trades Unit Converter is a comprehensive unit conversion tool supporting 33+ conversion types across 13 languages. Features include length, weight, temperature, volume, area, speed, time, data, pressure, energy, power, angle, and fuel economy conversions with real-time calculations and multilingual support.
 
-$ Privacy Policy: Tech & Trads Unit Converter.html
+• Privacy Policy: Tech & Trads Unit Converter.html
 
-Phantom Sync
+# Phantom Sync
 • Platform: Android
 
 • Distribution: Google Play (Internal / Closed Testing)
@@ -39,6 +39,8 @@ Platform: Android
 Distribution: Google Play
 
 Description: Rock Solid Diamond Drilling Troubleshooter is a technical reference tool designed to assist with diamond drilling troubleshooting and best practices.
+
+# Rock Solid ddt 
 
 Privacy Policy: privacy-policy.html
 
