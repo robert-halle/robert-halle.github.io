@@ -1,4 +1,4 @@
-Techno Devine Solutions – App Policies
+# Techno Devine Solutions – App Policies
 This repository hosts public privacy policy documents for Android applications published by Techno Devine Solutions.
 
 These policies are provided to comply with Google Play Developer Program requirements.
@@ -11,7 +11,7 @@ Tech and Trades Unit Converter
 
 • Description: Tech and Trades Unit Converter is a comprehensive unit conversion tool supporting 33+ conversion types across 13 languages. Features include length, weight, temperature, volume, area, speed, time, data, pressure, energy, power, angle, and fuel economy conversions with real-time calculations and multilingual support.
 
-• Privacy Policy: Tech & Trads Unit Converter.html
+$ Privacy Policy: Tech & Trads Unit Converter.html
 
 Phantom Sync
 • Platform: Android
@@ -22,7 +22,7 @@ Phantom Sync
 
 • Privacy Policy: PhantomSync_privacy_policy.html
 
-Macro Boy
+# Macro Boy
 Platform: Android
 
 Distribution: Google Play (Internal / Closed Testing)
